@@ -1,8 +1,3 @@
-<style>
-  h1, h2, h3{font-family: monospace
-  }
-</style>
-
 # Oppgaver
 
 ## Innhold
@@ -107,27 +102,26 @@ Vi skal selvfølgelig gjøre det på IFI-måten - lokalt for å bygge forståels
 2. Gjør en endring
 3. Commit
 4. Bytt over til main branchen med `git checkout main`
-5. Merge endringen inn i `main` branchen med `git merge dev`
-6. Slett branchen
-7. Pull endringen til din lokale maskin
+5. Merge endringen inn i main branchen med `git merge dev`
+6. Push
 
 ## Level 4 - Branching med Pull Request 🌳
 
-1. Lag en branch `git branch dev`
+1. Bruk samme branch - `git checkout dev`
 2. Gjør en endring
 3. Push endringen
 4. Gå til GitHub og se at endringen er på branchen
 5. Merge endringen inn i `main` branchen
 6. Slett branchen
-7. Pull endringen til din lokale maskin
+7. Pull
 
 ## Level 5 - .gitignore
 
 1. Ignorer filer med .gitignore
-1. Lag en ny fil kalt secret.txt.
-1. Opprett en .gitignore-fil og legg til secret.txt i den.
-1. Sjekk at git status ikke viser secret.txt.
-1. Gjør en commit med .gitignore inkludert.
+2. Lag en ny fil kalt secret.txt.
+3. Opprett en .gitignore-fil og legg til secret.txt i den.
+4. Sjekk at git status ikke viser secret.txt.
+5. Gjør en commit med .gitignore inkludert.
 
 ## Level 6 - Rammeverk for aliases
 
