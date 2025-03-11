@@ -1,17 +1,21 @@
 # git-good
 
-Samarbeidsarrangement med FUI, Mikro, og Progsys
-
 > Sted: Java og Logo (Se beskrivelse)
 >
 > Dato: Onsdag 12. mars
 >
 > Tid: 16:15 - 18:00
 
-### Innhold
+Samarbeidsarrangement med:
+
+- FUI - Fagutvalget ved Intitutt for Informatikk
+- Mikro - Linjeforeningen for Robotikk og Intelligent Systemer
+- Progsys - Linjeforeningen for Programmering og Systemarkitektur
+
+## Innhold
 
 - [git-good](#git-good)
-    - [Innhold](#innhold)
+  - [Innhold](#innhold)
   - [Beskrivelse (samme som på Peoply og FB)](#beskrivelse-samme-som-på-peoply-og-fb)
   - [Ekstra info til Nybegynnerkurset](#ekstra-info-til-nybegynnerkurset)
     - [Prøv dette før workshopen](#prøv-dette-før-workshopen)
