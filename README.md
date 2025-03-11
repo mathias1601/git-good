@@ -1,4 +1,6 @@
-# git-good
+![Git Good banner](assets/git-good-banner.png)
+<!-- 
+# Git Good
 
 > Sted: Java og Logo (Se beskrivelse)
 >
@@ -11,14 +13,14 @@ Samarbeidsarrangement med:
 - FUI - Fagutvalget ved Intitutt for Informatikk
 - Mikro - Linjeforeningen for Robotikk og Intelligent Systemer
 - Progsys - Linjeforeningen for Programmering og Systemarkitektur
+ -->
 
 ## Innhold
 
-- [git-good](#git-good)
-  - [Innhold](#innhold)
-  - [Beskrivelse (samme som på Peoply og FB)](#beskrivelse-samme-som-på-peoply-og-fb)
-  - [Ekstra info til Nybegynnerkurset](#ekstra-info-til-nybegynnerkurset)
-    - [Prøv dette før workshopen](#prøv-dette-før-workshopen)
+- [Innhold](#innhold)
+- [Beskrivelse (samme som på Peoply og FB)](#beskrivelse-samme-som-på-peoply-og-fb)
+- [Ekstra info til Nybegynnerkurset](#ekstra-info-til-nybegynnerkurset)
+  - [Prøv dette før workshopen](#prøv-dette-før-workshopen)
 
 ## Beskrivelse (samme som på Peoply og FB)
 
