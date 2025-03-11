@@ -1,7 +1,7 @@
 
 # Velkommen til Git Good 🌱
 
-## Menti 
+## Menti
 
 ## Hvorfor lære Git?
 
@@ -22,6 +22,8 @@ Fun facts
 - "Goddamn idiotic truckload of sh*t": when it breaks
 - Linus lagde git på 5 dager, og på den 6. dagen hvilte han
   - note: Mye som måtte gjøres manuelt på den tida
+
+Så igjen - Hvorfor lære git?
 
 - Har du noen gang vært i denne situasjonen?
   - `assignment3.docx`
@@ -47,6 +49,7 @@ Fun facts
   - mister tilgang på UiO-githuben når man går ut av UiO
   - github.com kan man bruke som porterfølje og for å hoste nettsider
 - Struktur på repoene mine
+- VSCode
 
 ## Hands-on practice
 
@@ -70,8 +73,12 @@ Veeeldig lite. Så vidt dyppe tærne.
 
 ## Branching
 
+## Merge Conflicts
+
+![eksempel på merge conflict](image.png)
+
 ## Veien videre
 
 - Fork andres prosjekter
-  - feks et repo fra IN2140-githuben
-- 
+- Håndtere merge conflicts
+- Gjør ferdig [oppgavene](oppgaver.md)

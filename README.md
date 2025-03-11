@@ -1,4 +1,5 @@
 ![Git Good banner](assets/git-good-banner.png)
+
 <!-- 
 # Git Good
 
@@ -51,6 +52,7 @@ git status
 git log
 
 git branch
+git merge
 ```
 
 ### Prøv dette før workshopen
@@ -86,11 +88,7 @@ $mkdir test-git
 $cd test-git
 $git init
 
-#for mac:
-$touch README.md
-
-#for windows:
-$echo hei >> README.md
+$echo tester git  >> README.md
 
 $git add .
 $git commit -m "initial commit"
