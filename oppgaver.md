@@ -17,7 +17,11 @@
 
 ## Terminologi
 
-Sortert fra enklest til vanskligst
+Sortert etter vibes:
+
+- Enklest til vanskligst
+- vanligst til niche
+- Gruppert etter relaterte begreper
 
 | Begrep | Beskrivelse |
 |--------|-------------|
