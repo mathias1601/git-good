@@ -23,17 +23,7 @@ Relevant for
 
 ### Hva er git?
 
-Fun facts
-
-- Linus Torvalds
-- "Global information tracker": you're in a good mood, and it actually works for you
-- "Goddamn idiotic truckload of sh*t": when it breaks
-- Linus lagde git på 5 dager, og på den 6. dagen hvilte han
-  - note: Mye som måtte gjøres manuelt på den tida
-
-![Linus](assets/Linus.png)
-
-Så igjen - Hvorfor lære git?
+Et verktøy som løser et problem
 
 - Har du noen gang vært i denne situasjonen?
   - `oblig3.docx`
@@ -46,6 +36,16 @@ Så igjen - Hvorfor lære git?
   - `oblig3 final v2 FINAL i_swear.docx`
 
 - Tegne graf
+
+Fun facts
+
+- Linus Torvalds
+- "Global information tracker": you're in a good mood, and it actually works for you
+- "Goddamn idiotic truckload of sh*t": when it breaks
+- Linus lagde git på 5 dager, og på den 6. dagen hvilte han
+  - note: Mye som måtte gjøres manuelt på den tida
+
+![Linus](assets/Linus.png)
 
 ### Hva er GitHub da?
 
